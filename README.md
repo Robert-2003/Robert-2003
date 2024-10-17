@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Robnic2003
+- 👋 Hi, I’m Robert!
 - 👀 I’m interested in Music, Animations, Movies, games, Technology and Economy
 - 🌱 I’m currently learning to use Git and GitHub. Second stage of bootcamp for full-stack programming.
 - 💞️ I’m looking to collaborate in Open Source projects and change the world with technology that really works.
-- 📫 Reach me in email
-- 📬 Email: siqueirarobert2@gmail.com
 
 <!---
 Robnic2003/Robnic2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
