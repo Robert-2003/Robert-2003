@@ -35,6 +35,12 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-2003&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-2003&layout=compact&theme=github_dark&locale=pt-br&hide_border=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### Alguns dos meus principais repositórios
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robert-2003&repo=Sistema-Chamados-Django&theme=github_dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
 
