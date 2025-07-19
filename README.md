@@ -1,7 +1,16 @@
 # Oi! Me chamo Robert Siqueira
 ## Sobre Mim
-📚Atualmente estou cursando Engenharia da Computação - UVA (Univerisidade Veiga de Almeida)
+📚Atualmente estou cursando Engenharia da Computação - UVA (Univerisidade Veiga de Almeida).  
 💻No momento sou apenas um desenvolvedor iniciante buscando novas habilidades e mais experiências.
+
+## Hobbies
+* 💻**Tecnologia**
+* 🎮**Videogames**
+* 🎸**Rock e Metal**
+* 🎞**Filmes**
+* 🎃**Terror**
+* 👓**Animes e Geek**
+* 💢**Vasco da Gama**
 
 #### Minhas Redes Sociais
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/robert-siqueira-a97110204/)
@@ -32,23 +41,14 @@
 #### Sistemas Operacionais
 [![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
 
+### Alguns dos meus principais repositórios
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robert-2003&repo=Sistema-Chamados-Django&theme=github_dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-2003&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-2003&layout=compact&theme=github_dark&locale=pt-br&hide_border=true)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GabrielaZanetti/GabrielaZanetti/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robert-2003/Robert-2003/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Robert-2003/Robert-2003/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Robert-2003/Robert-2003/output/github-contribution-grid-snake.svg">
 </picture>
-
-### Alguns dos meus principais repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robert-2003&repo=Sistema-Chamados-Django&theme=github_dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-## Hobbies
-* 💻**Tecnologia**
-* 🎮**Videogames**
-* 🎸**Rock e Metal**
-* 🎞**Filmes**
-* 🎃**Terror**
-* 👓**Animes e Geek**
-* 💢**Vasco da Gama**
