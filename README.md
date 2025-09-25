@@ -14,8 +14,6 @@
 
 ### Minhas Redes Sociais
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/robert-siqueira-a97110204/)
-[<img width="auto" height="48" alt="image" src="https://github.com/user-attachments/assets/ef30748a-dcaa-4183-a270-5ebe7ba69274">
-](https://www.dio.me/users/siqueirarobert2)
 [<img width="auto" height="48" alt="image" src="https://github.com/user-attachments/assets/08f2dbb1-1640-4be3-8161-2e8a5a608658">
 ](https://www.last.fm/pt/user/Robert_dSouza23)
 
