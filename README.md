@@ -39,13 +39,7 @@
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://skillicons.dev)
 
 #### Sistemas Operacionais
-[![My Skills](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
-
-### Alguns dos meus principais repositórios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Robert-2003&repo=Sistema-Chamados-Django&theme=github_dark&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robert-2003&show_icons=true&theme=github_dark&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robert-2003&layout=compact&theme=github_dark&locale=pt-br&hide_border=true)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu)](https://skillicons.dev)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Robert-2003/Robert-2003/output/github-contribution-grid-snake-dark.svg">
